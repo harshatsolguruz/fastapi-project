@@ -1,0 +1,25 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+env/
+ENV/
+.venv/
+.idea/
+*.db
+*.sqlite3
+
+# Dependency directories
+/pip-wheel-metadata/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment variable files
+.env
+
+# Logs
+*.log
